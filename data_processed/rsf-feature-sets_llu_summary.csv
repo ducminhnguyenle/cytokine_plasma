@@ -1,0 +1,11 @@
+feature_set,n_features,features,c_index,mean_auc
+set_04,3,"il10, tnfalpha, ss",0.724,0.776
+set_09,5,"il6, il8, il10, tnfalpha, ss",0.731,0.772
+set_06,4,"il6, il10, tnfalpha, ss",0.724,0.769
+set_05,4,"il10, tgfalpha, tnfalpha, ss",0.712,0.741
+set_07,4,"il8, il10, tnfalpha, ss",0.705,0.716
+set_03,7,"il6, il8, il10, tgfalpha, tnfalpha, hbegf, ss",0.679,0.701
+set_10,5,"il10, tgfalpha, tnfalpha, hbegf, ss",0.686,0.695
+set_08,4,"il10, tnfalpha, hbegf, ss",0.686,0.666
+set_01,1,ss,0.631,0.648
+set_02,6,"il6, il8, il10, tgfalpha, tnfalpha, hbegf",0.615,0.591

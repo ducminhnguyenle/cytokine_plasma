@@ -1,0 +1,6 @@
+feature_set,n_features,features,c_index,mean_auc
+set_05,3,"il10, tnfalpha, ss",0.766,0.853
+set_03,4,"il6, il10, tnfalpha, ss",0.754,0.845
+set_02,5,"il6, il8, il10, tnfalpha, ss",0.741,0.808
+set_04,4,"il8, il10, tnfalpha, ss",0.729,0.79
+set_01,1,ss,0.68,0.754
